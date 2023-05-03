@@ -1,0 +1,31 @@
+CRITICAL - 2023-05-03 00:51:54 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-03 00:57:52 --> Undefined variable $jenjang
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjang', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(62): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-03 00:58:08 --> Undefined array key "id_campus"
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_campus"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(62): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')

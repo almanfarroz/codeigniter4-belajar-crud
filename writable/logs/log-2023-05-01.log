@@ -1,0 +1,1028 @@
+CRITICAL - 2023-05-01 09:34:29 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:34:49 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:34:50 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:35:02 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:35:12 --> Undefined variable $title
+in APPPATH\Views\pages\create.php on line 6.
+ 1 APPPATH\Views\pages\create.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 6)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:36:20 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:38:11 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:38:32 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:39:28 --> Undefined variable $jenjang
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjang', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:39:29 --> Undefined variable $jenjang
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjang', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:43:36 --> Undefined variable $majors
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $majors', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:47:46 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:56:56 --> Undefined variable $jps
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jps', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:56:57 --> Undefined variable $jps
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jps', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:57:58 --> Undefined variable $jps
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jps', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:57:59 --> Undefined variable $jps
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jps', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 09:58:00 --> Undefined variable $jps
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jps', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:06:31 --> Class "App\Controllers\JenjangModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:07:26 --> Class "App\Models\JenjangModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:07:45 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->list()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->list()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:07:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `mahasiswa`', [], false)
+ 3 SYSTEMPATH\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:07:50 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:07:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:08:36 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:08:36 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:08:41 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:08:41 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:08:50 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:08:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:14:39 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:14:39 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:15:48 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->list()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->list()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:15:48 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `mahasiswa`', [], false)
+ 3 SYSTEMPATH\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:15:50 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->list()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->list()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:15:50 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `mahasiswa`', [], false)
+ 3 SYSTEMPATH\Model.php(606): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\MainController.php(32): CodeIgniter\BaseModel->paginate(5)
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:15:51 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-01 12:15:51 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:16:44 --> mysqli_sql_exception: Table 'dummy_db.jp' doesn't exist in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-01 12:16:44 --> Table 'dummy_db.jp' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `jp`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jp`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jp`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:16:45 --> mysqli_sql_exception: Table 'dummy_db.jp' doesn't exist in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-01 12:16:45 --> Table 'dummy_db.jp' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `jp`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jp`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jp`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:17:08 --> mysqli_sql_exception: Table 'dummy_db.jp' doesn't exist in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-01 12:17:08 --> Table 'dummy_db.jp' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `jp`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jp`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jp`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-01 12:17:11 --> mysqli_sql_exception: Table 'dummy_db.jp' doesn't exist in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-01 12:17:11 --> Table 'dummy_db.jp' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `jp`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jp`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jp`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jp`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:17:45 --> Invalid file: "pages/form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/form', [], true)
+ 3 APPPATH\Controllers\MainController.php(59): view('pages/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:23:08 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:23:52 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:24:36 --> Invalid file: "pages/form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/form', [], true)
+ 3 APPPATH\Controllers\MainController.php(59): view('pages/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:24:37 --> Invalid file: "pages/form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/form', [], true)
+ 3 APPPATH\Controllers\MainController.php(59): view('pages/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:24:40 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:26:22 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:26:57 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:27:22 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:27:41 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:27:42 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:27:42 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:27:49 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:28:34 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:28:46 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:29:39 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:29:40 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:29:41 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:29:41 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:29:41 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:29:41 --> Undefined variable $action
+in APPPATH\Views\pages\create.php on line 4.
+ 1 APPPATH\Views\pages\create.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('pages/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 12:30:50 --> Invalid file: "pages/form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/form', [], true)
+ 3 APPPATH\Controllers\MainController.php(59): view('pages/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 13:05:14 --> Invalid file: "pages/form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/form', [], true)
+ 3 APPPATH\Controllers\MainController.php(59): view('pages/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 13:06:27 --> Undefined array key "major"
+in APPPATH\Controllers\MainController.php on line 70.
+ 1 APPPATH\Controllers\MainController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "major"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Controllers\\MainController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-01 13:06:59 --> Undefined array key "tempat_lahir"
+in APPPATH\Controllers\MainController.php on line 71.
+ 1 APPPATH\Controllers\MainController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat_lahir"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Controllers\\MainController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')

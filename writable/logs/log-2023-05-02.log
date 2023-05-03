@@ -1,0 +1,524 @@
+CRITICAL - 2023-05-02 10:35:06 --> Undefined array key "tempat_lahir"
+in APPPATH\Controllers\MainController.php on line 71.
+ 1 APPPATH\Controllers\MainController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat_lahir"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Controllers\\MainController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:35:30 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:36:51 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:36:52 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:36:53 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:37:08 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:37:09 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:37:09 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:37:12 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:39:03 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:39:10 --> Undefined variable $jenjangs
+in APPPATH\Views\pages\create.php on line 45.
+ 1 APPPATH\Views\pages\create.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjangs', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(59): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:39:31 --> Undefined array key "tempat_lahir"
+in APPPATH\Controllers\MainController.php on line 71.
+ 1 APPPATH\Controllers\MainController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat_lahir"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Controllers\\MainController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:39:56 --> Undefined array key "tempat_lahir"
+in APPPATH\Controllers\MainController.php on line 71.
+ 1 APPPATH\Controllers\MainController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat_lahir"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Controllers\\MainController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:40:05 --> Undefined array key "tempat_lahir"
+in APPPATH\Controllers\MainController.php on line 71.
+ 1 APPPATH\Controllers\MainController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat_lahir"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Controllers\\MainController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:41:34 --> Invalid file: "pages/form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/form', [], true)
+ 3 APPPATH\Controllers\MainController.php(90): view('pages/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:42:16 --> Undefined array key "tempat_lahir"
+in APPPATH\Controllers\MainController.php on line 71.
+ 1 APPPATH\Controllers\MainController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat_lahir"', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Controllers\\MainController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 10:44:26 --> Invalid file: "pages/form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/form', [], true)
+ 3 APPPATH\Controllers\MainController.php(90): view('pages/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:42:21 --> Undefined variable $data
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(57): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:43:12 --> Undefined variable $data
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(57): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:43:14 --> Undefined variable $data
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(57): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:44:31 --> Undefined variable $jenjang
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjang', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(57): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:44:32 --> Undefined variable $jenjang
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjang', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(57): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:44:33 --> Undefined variable $jenjang
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjang', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(57): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:44:36 --> Undefined variable $jenjang
+in APPPATH\Views\pages\create.php on line 64.
+ 1 APPPATH\Views\pages\create.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenjang', 'C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\app\\Views\\pages\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/create', [], true)
+ 5 APPPATH\Controllers\MainController.php(57): view('pages/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-02 12:45:40 --> mysqli_sql_exception: Table 'dummy_db.jenjang' doesn't exist in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-02 12:45:40 --> Table 'dummy_db.jenjang' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `jenjang`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jenjang`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jenjang`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jenjang`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-02 12:46:09 --> mysqli_sql_exception: Table 'dummy_db.jenjang' doesn't exist in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-02 12:46:09 --> Table 'dummy_db.jenjang' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `jenjang`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jenjang`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jenjang`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jenjang`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+ERROR - 2023-05-02 12:46:16 --> mysqli_sql_exception: Table 'dummy_db.jenjang' doesn't exist in C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\app\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(934): App\Controllers\MainController->create()
+#8 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\semester4\codeigniter4-belajar-crud\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-02 12:46:16 --> Table 'dummy_db.jenjang' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `jenjang`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jenjang`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jenjang`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jenjang`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\MainController.php(55): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:48:06 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:22 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:23 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:25 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:26 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:28 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:31 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:31 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:32 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:32 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:32 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:49:32 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:50:24 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 12:50:25 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:02:18 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:02:56 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:03:04 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\MainController->create()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:03:15 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:03:32 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:03:33 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:03:41 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:03:42 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
+CRITICAL - 2023-05-02 13:04:03 --> Class "App\Models\CampusModel" not found
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\semester4\\codeigniter4-belajar-crud\\public\\index.php')
