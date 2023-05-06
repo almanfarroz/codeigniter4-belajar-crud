@@ -43,13 +43,13 @@ $routes->post('/list/create/save', 'MainController::save', ['as' => 'save_studen
 $routes->get('/list/(:num)/delete', 'MainController::delete/$1', ['as' => 'delete_student']);
 
 // Authentication
-// $routes->get('/login', 'AuthController::signin', ['as' => 'login']);
-// $routes->post('/login/auth', 'AuthController::loginauth', ['as' => 'auth']);
+$routes->get('/login', 'AuthenticationController::signin', ['as' => 'login']);
+$routes->post('/login/auth', 'AuthenticationController::loginauth', ['as' => 'auth']);
 
-// $routes->get('/register', 'AuthController::register', ['as' => 'register']);
-// $routes->post('/register/store', 'AuthController::store', ['as' => 'store']);
+$routes->get('/register', 'AuthenticationController::register', ['as' => 'register']);
+$routes->post('/register/store', 'AuthenticationController::store', ['as' => 'store']);
 
-// $routes->get('/logout', 'AuthController::logout', ['as' => 'logout']);
+$routes->get('/logout', 'AuthenticationController::logout', ['as' => 'logout']);
 /*
  * --------------------------------------------------------------------
  * Additional Routing
