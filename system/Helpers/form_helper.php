@@ -14,7 +14,7 @@ use Config\Services;
 
 // CodeIgniter Form Helpers
 
-if (! function_exists('form_open')) {
+if (!function_exists('form_open')) {
     /**
      * Form Declaration
      *
@@ -27,7 +27,7 @@ if (! function_exists('form_open')) {
     function form_open(string $action = '', $attributes = [], array $hidden = []): string
     {
         // If no action is provided then set to the current url
-        if (! $action) {
+        if (!$action) {
             $action = current_url(true);
         } // If an action is not a full URL then turn it into one
         elseif (strpos($action, '://') === false) {
@@ -59,7 +59,7 @@ if (! function_exists('form_open')) {
         // Add CSRF field if enabled, but leave it out for GET requests and requests to external websites
         $before = Services::filters()->getFilters()['before'];
 
-        if ((in_array('csrf', $before, true) || array_key_exists('csrf', $before)) && strpos($action, base_url()) !== false && ! stripos($form, 'method="get"')) {
+        if ((in_array('csrf', $before, true) || array_key_exists('csrf', $before)) && strpos($action, base_url()) !== false && !stripos($form, 'method="get"')) {
             $form .= csrf_field($csrfId ?? null);
         }
 
@@ -71,7 +71,7 @@ if (! function_exists('form_open')) {
     }
 }
 
-if (! function_exists('form_open_multipart')) {
+if (!function_exists('form_open_multipart')) {
     /**
      * Form Declaration - Multipart type
      *
@@ -93,7 +93,7 @@ if (! function_exists('form_open_multipart')) {
     }
 }
 
-if (! function_exists('form_hidden')) {
+if (!function_exists('form_hidden')) {
     /**
      * Hidden Input Field
      *
@@ -119,7 +119,7 @@ if (! function_exists('form_hidden')) {
             return $form;
         }
 
-        if (! is_array($value)) {
+        if (!is_array($value)) {
             $form .= form_input($name, $value, '', 'hidden');
         } else {
             foreach ($value as $k => $v) {
@@ -132,7 +132,7 @@ if (! function_exists('form_hidden')) {
     }
 }
 
-if (! function_exists('form_input')) {
+if (!function_exists('form_input')) {
     /**
      * Text Input Field. If 'type' is passed in the $type field, it will be
      * used as the input type, for making 'email', 'phone', etc input fields.
@@ -152,7 +152,7 @@ if (! function_exists('form_input')) {
     }
 }
 
-if (! function_exists('form_password')) {
+if (!function_exists('form_password')) {
     /**
      * Password Field
      *
@@ -163,7 +163,7 @@ if (! function_exists('form_password')) {
      */
     function form_password($data = '', string $value = '', $extra = ''): string
     {
-        if (! is_array($data)) {
+        if (!is_array($data)) {
             $data = ['name' => $data];
         }
         $data['type'] = 'password';
@@ -172,7 +172,7 @@ if (! function_exists('form_password')) {
     }
 }
 
-if (! function_exists('form_upload')) {
+if (!function_exists('form_upload')) {
     /**
      * Upload Field
      *
@@ -188,7 +188,7 @@ if (! function_exists('form_upload')) {
             'name' => '',
         ];
 
-        if (! is_array($data)) {
+        if (!is_array($data)) {
             $data = ['name' => $data];
         }
 
@@ -198,7 +198,7 @@ if (! function_exists('form_upload')) {
     }
 }
 
-if (! function_exists('form_textarea')) {
+if (!function_exists('form_textarea')) {
     /**
      * Textarea field
      *
@@ -212,7 +212,7 @@ if (! function_exists('form_textarea')) {
             'cols' => '40',
             'rows' => '10',
         ];
-        if (! is_array($data) || ! isset($data['value'])) {
+        if (!is_array($data) || !isset($data['value'])) {
             $val = $value;
         } else {
             $val = $data['value'];
@@ -229,12 +229,12 @@ if (! function_exists('form_textarea')) {
         }
 
         return '<textarea ' . rtrim(parse_form_attributes($data, $defaults)) . stringify_attributes($extra) . '>'
-                . htmlspecialchars($val)
-                . "</textarea>\n";
+            . htmlspecialchars($val)
+            . "</textarea>\n";
     }
 }
 
-if (! function_exists('form_multiselect')) {
+if (!function_exists('form_multiselect')) {
     /**
      * Multi-select menu
      *
@@ -253,7 +253,7 @@ if (! function_exists('form_multiselect')) {
     }
 }
 
-if (! function_exists('form_dropdown')) {
+if (!function_exists('form_dropdown')) {
     /**
      * Drop-down Menu
      *
@@ -278,10 +278,10 @@ if (! function_exists('form_dropdown')) {
             $defaults = ['name' => $data];
         }
 
-        if (! is_array($selected)) {
+        if (!is_array($selected)) {
             $selected = [$selected];
         }
-        if (! is_array($options)) {
+        if (!is_array($options)) {
             $options = [$options];
         }
 
@@ -336,7 +336,7 @@ if (! function_exists('form_dropdown')) {
     }
 }
 
-if (! function_exists('form_checkbox')) {
+if (!function_exists('form_checkbox')) {
     /**
      * Checkbox Field
      *
@@ -347,7 +347,7 @@ if (! function_exists('form_checkbox')) {
     {
         $defaults = [
             'type'  => 'checkbox',
-            'name'  => (! is_array($data) ? $data : ''),
+            'name'  => (!is_array($data) ? $data : ''),
             'value' => $value,
         ];
 
@@ -369,7 +369,7 @@ if (! function_exists('form_checkbox')) {
     }
 }
 
-if (! function_exists('form_radio')) {
+if (!function_exists('form_radio')) {
     /**
      * Radio Button
      *
@@ -378,7 +378,7 @@ if (! function_exists('form_radio')) {
      */
     function form_radio($data = '', string $value = '', bool $checked = false, $extra = ''): string
     {
-        if (! is_array($data)) {
+        if (!is_array($data)) {
             $data = ['name' => $data];
         }
         $data['type'] = 'radio';
@@ -387,7 +387,7 @@ if (! function_exists('form_radio')) {
     }
 }
 
-if (! function_exists('form_submit')) {
+if (!function_exists('form_submit')) {
     /**
      * Submit Button
      *
@@ -400,7 +400,7 @@ if (! function_exists('form_submit')) {
     }
 }
 
-if (! function_exists('form_reset')) {
+if (!function_exists('form_reset')) {
     /**
      * Reset Button
      *
@@ -413,7 +413,7 @@ if (! function_exists('form_reset')) {
     }
 }
 
-if (! function_exists('form_button')) {
+if (!function_exists('form_button')) {
     /**
      * Form Button
      *
@@ -433,12 +433,12 @@ if (! function_exists('form_button')) {
         }
 
         return '<button ' . parse_form_attributes($data, $defaults) . stringify_attributes($extra) . '>'
-                . $content
-                . "</button>\n";
+            . $content
+            . "</button>\n";
     }
 }
 
-if (! function_exists('form_label')) {
+if (!function_exists('form_label')) {
     /**
      * Form Label Tag
      *
@@ -464,7 +464,7 @@ if (! function_exists('form_label')) {
     }
 }
 
-if (! function_exists('form_datalist')) {
+if (!function_exists('form_datalist')) {
     /**
      * Datalist
      *
@@ -493,7 +493,7 @@ if (! function_exists('form_datalist')) {
     }
 }
 
-if (! function_exists('form_fieldset')) {
+if (!function_exists('form_fieldset')) {
     /**
      * Fieldset Tag
      *
@@ -515,7 +515,7 @@ if (! function_exists('form_fieldset')) {
     }
 }
 
-if (! function_exists('form_fieldset_close')) {
+if (!function_exists('form_fieldset_close')) {
     /**
      * Fieldset Close Tag
      */
@@ -525,7 +525,7 @@ if (! function_exists('form_fieldset_close')) {
     }
 }
 
-if (! function_exists('form_close')) {
+if (!function_exists('form_close')) {
     /**
      * Form Close Tag
      */
@@ -535,7 +535,7 @@ if (! function_exists('form_close')) {
     }
 }
 
-if (! function_exists('set_value')) {
+if (!function_exists('set_value')) {
     /**
      * Form Value
      *
@@ -563,7 +563,7 @@ if (! function_exists('set_value')) {
     }
 }
 
-if (! function_exists('set_select')) {
+if (!function_exists('set_select')) {
     /**
      * Set Select
      *
@@ -599,7 +599,7 @@ if (! function_exists('set_select')) {
     }
 }
 
-if (! function_exists('set_checkbox')) {
+if (!function_exists('set_checkbox')) {
     /**
      * Set Checkbox
      *
@@ -628,7 +628,7 @@ if (! function_exists('set_checkbox')) {
         }
 
         // Unchecked checkbox and radio inputs are not even submitted by browsers ...
-        if ((string) $input === '0' || ! empty($request->getPost()) || ! empty(old($field))) {
+        if ((string) $input === '0' || !empty($request->getPost()) || !empty(old($field))) {
             return ($input === $value) ? ' checked="checked"' : '';
         }
 
@@ -636,7 +636,7 @@ if (! function_exists('set_checkbox')) {
     }
 }
 
-if (! function_exists('set_radio')) {
+if (!function_exists('set_radio')) {
     /**
      * Set Radio
      *
@@ -679,7 +679,7 @@ if (! function_exists('set_radio')) {
     }
 }
 
-if (! function_exists('validation_errors')) {
+if (!function_exists('validation_errors')) {
     /**
      * Returns the validation errors.
      *
@@ -700,7 +700,7 @@ if (! function_exists('validation_errors')) {
 
         // Check the session to see if any were
         // passed along from a redirect withErrors() request.
-        if (isset($_SESSION['_ci_validation_errors']) && (ENVIRONMENT === 'testing' || ! is_cli())) {
+        if (isset($_SESSION['_ci_validation_errors']) && (ENVIRONMENT === 'testing' || !is_cli())) {
             return $_SESSION['_ci_validation_errors'];
         }
 
@@ -710,7 +710,7 @@ if (! function_exists('validation_errors')) {
     }
 }
 
-if (! function_exists('validation_list_errors')) {
+if (!function_exists('validation_list_errors')) {
     /**
      * Returns the rendered HTML of the validation errors.
      *
@@ -721,7 +721,7 @@ if (! function_exists('validation_list_errors')) {
         $config = config('Validation');
         $view   = Services::renderer();
 
-        if (! array_key_exists($template, $config->templates)) {
+        if (!array_key_exists($template, $config->templates)) {
             throw ValidationException::forInvalidTemplate($template);
         }
 
@@ -730,7 +730,7 @@ if (! function_exists('validation_list_errors')) {
     }
 }
 
-if (! function_exists('validation_show_error')) {
+if (!function_exists('validation_show_error')) {
     /**
      * Returns a single error for the specified field in formatted HTML.
      *
@@ -750,7 +750,7 @@ if (! function_exists('validation_show_error')) {
             return '';
         }
 
-        if (! array_key_exists($template, $config->templates)) {
+        if (!array_key_exists($template, $config->templates)) {
             throw ValidationException::forInvalidTemplate($template);
         }
 
@@ -759,7 +759,7 @@ if (! function_exists('validation_show_error')) {
     }
 }
 
-if (! function_exists('parse_form_attributes')) {
+if (!function_exists('parse_form_attributes')) {
     /**
      * Parse the form attributes
      *
@@ -779,7 +779,7 @@ if (! function_exists('parse_form_attributes')) {
                     unset($attributes[$key]);
                 }
             }
-            if (! empty($attributes)) {
+            if (!empty($attributes)) {
                 $default = array_merge($default, $attributes);
             }
         }
@@ -787,10 +787,10 @@ if (! function_exists('parse_form_attributes')) {
         $att = '';
 
         foreach ($default as $key => $val) {
-            if (! is_bool($val)) {
+            if (!is_bool($val)) {
                 if ($key === 'value') {
                     $val = esc($val);
-                } elseif ($key === 'name' && ! strlen($default['name'])) {
+                } elseif ($key === 'name' && !strlen($default['name'])) {
                     continue;
                 }
                 $att .= $key . '="' . $val . '"' . ($key === array_key_last($default) ? '' : ' ');

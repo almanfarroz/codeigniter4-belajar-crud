@@ -2,32 +2,43 @@
 
 <?= $this->section('content'); ?>
 
-<main class="container">
-    <article>
-        <h1 style="text-align: center;">Register</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 offset-sm-3">
 
-        <?= validation_list_errors() ?>
+            <h1>Register</h1>
 
-        <form action="<?= base_url('register/store') ?>" method="POST">
-            <label for="username">
-                Username
-                <input type="text" name="username" id="username" placeholder="Username">
-            </label>
-            <label for="email">
-                Email
-                <input type="email" name="email" id="email" placeholder="Email">
-            </label>
-            <label for="password">
-                Password
-                <input type="password" name="password" id="password" placeholder="Password">
-            </label>
-            <label for="passconf">
-                Confirm Password
-                <input type="password" name="passconf" id="passconf" placeholder="Confirm Password">
-            </label>
-            <button value="submit">Submit</button>
-        </form>
-    </article>
-</main>
+            <?php if (isset($validation)) : ?>
+                <div class="alert alert-danger"><?= $validation->listErrors() ?></div>
+            <?php endif; ?>
+
+            <form action="<?= route_to('store') ?>" method="post">
+                <?= csrf_field() ?>
+
+                <div class="form-group">
+                    <label for="username">Username</label>
+                    <input type="text" name="username" id="username" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" name="password" id="password" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="passconf">Confirm Password:</label>
+                    <input type="password" class="form-control" id="passconf" name="passconf">
+                </div>
+
+                <button type="submit" class="btn btn-primary">Register</button>
+            </form>
+        </div>
+    </div>
+</div>
 
 <?= $this->endSection() ?>
