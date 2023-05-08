@@ -38,10 +38,10 @@ class AuthController extends BaseController
 
                 return redirect()->to(url_to('home'));
             }
-            session()->setFlashdata('msg', 'Password is incorrect.');
+            $this->session()->setFlashdata('msg', 'Password is incorrect.');
             return redirect()->to(url_to('login'));
         }
-        session()->setFlashdata('msg', 'Username is incorrect.');
+        $this->session()->setFlashdata('msg', 'Username is incorrect.');
         return redirect()->to(url_to('login'));
     }
 
@@ -79,7 +79,7 @@ class AuthController extends BaseController
 
     public function logout()
     {
-        session()->destroy();
+        $this->session()->destroy();
         return redirect()->to(url_to('home'));
     }
 }
