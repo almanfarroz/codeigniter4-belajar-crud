@@ -1,10 +1,73 @@
 <?= $this->extend('./templates/template'); ?>
 
 <?= $this->section('content'); ?>
+<style>
+    /* Style untuk halaman register */
+    .container {
+        margin-top: 50px;
+        max-width: 600px;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
 
+    h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+    }
+
+    .alert-danger {
+        margin-bottom: 20px;
+        color: #721c24;
+        background-color: #f8d7da;
+        border-color: #f5c6cb;
+        padding: 10px;
+
+    }
+
+    .alert-danger ul {
+        margin-bottom: 0;
+    }
+
+    .alert-danger li {
+        list-style: none;
+        margin-left: -1.25em;
+    }
+
+    .alert-danger li:before {
+        content: "• ";
+    }
+
+    @media only screen and (max-width: 768px) {
+        .container {
+            max-width: 400px;
+        }
+    }
+</style>
 <div class="container">
     <div class="row">
-        <div class="col-sm-6 offset-sm-3">
+        <div class="col-sm-8 offset-sm-2">
 
             <h1>Register</h1>
 
